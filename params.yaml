@@ -19,4 +19,3 @@ raw: 'data/raw/'
 processed: 'data/staging/'
 enrichment: 'data/enrichment/'
 final: 'data/final/'
-
